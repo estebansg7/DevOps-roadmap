@@ -54,6 +54,7 @@ You can use this guide as a place to evaluate if this learning path is for you. 
 - [ ]  [https://pythonbasics.org/](https://pythonbasics.org/)
 - [ ]  [https://www.py4e.com/](https://www.py4e.com/)
 - [ ]  [https://www.scaler.com/topics/python/](https://www.scaler.com/topics/python/)
+- [ ]  [https://edube.org/](https://edube.org/)
 - [ ]  [https://www.udemy.com/course/complete-python-bootcamp/](https://www.udemy.com/course/complete-python-bootcamp/) ($)
 - [ ]  Certification [https://pythoninstitute.org/pcep](https://pythoninstitute.org/pcep)
 
