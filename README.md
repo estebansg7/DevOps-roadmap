@@ -49,7 +49,7 @@ You can use this guide as a place to evaluate if this learning path is for you. 
 - [ ]  Read and understand Azure CLI: [https://learn.microsoft.com/en-us/cli/azure/](https://learn.microsoft.com/en-us/cli/azure/)
 - [ ]  Complete Azure CLI tutorial: [https://learn.microsoft.com/en-us/cli/azure/get-started-with-azure-cli](https://learn.microsoft.com/en-us/cli/azure/get-started-with-azure-cli)
 
-### Phyton
+### Python
 
 - [ ]  [https://pythonbasics.org/](https://pythonbasics.org/)
 - [ ]  [https://www.py4e.com/](https://www.py4e.com/)
